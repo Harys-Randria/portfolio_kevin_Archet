@@ -84,7 +84,7 @@ export function ExperienceTimeline() {
             Expérience
           </h2>
           <p className="text-lg text-text-secondary max-w-xl mx-auto">
-            10+ ans d&apos;expertise, de la startup aux applications à 300k
+            10+ ans d&apos;expertise, jusqu'aux applications à 300k
             utilisateurs/jour.
           </p>
         </motion.div>
